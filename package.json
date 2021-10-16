@@ -1,6 +1,6 @@
 {
   "name": "autoupdatingtester",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A testing repo for VACenter Updating V4",
   "main": "index.js",
   "scripts": {
