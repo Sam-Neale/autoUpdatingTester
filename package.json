@@ -11,5 +11,8 @@
     "VACenter"
   ],
   "author": "Sam Neale, Teddy9264",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "auto-updater": "^1.0.2"
+  }
 }
