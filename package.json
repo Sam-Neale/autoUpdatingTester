@@ -17,6 +17,6 @@
   },
   "auto-updater": {
     "repo": "sam-neale/autoUpdatingTester",
-    "branch": "master"
+    "branch": "beta"
   }
 }
