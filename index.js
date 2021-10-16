@@ -38,6 +38,7 @@ autoupdater.on('download.start', function (name) {
     console.log("Starting downloading: " + name);
 });
 autoupdater.on('download.progress', function (name, perc) {
+    console.log(perc);
     console.log(`Downloading ${name}: ${perc}%`);
 });
 autoupdater.on('download.end', function (name) {
