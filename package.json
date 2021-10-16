@@ -1,0 +1,15 @@
+{
+  "name": "autoupdatingtester",
+  "version": "0.0.1",
+  "description": "A testing repo for VACenter Updating V4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Updater",
+    "VACenter"
+  ],
+  "author": "Sam Neale, Teddy9264",
+  "license": "ISC"
+}
